@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+	<template id="web_external_layout_standard" name="External layout" inherit_id="web.external_layout_standard"> 
+		<xpath expr="//div[hasclass('footer')]//li[@t-if='company.vat']" position="replace"/>
+	</template>
+
+</odoo>
