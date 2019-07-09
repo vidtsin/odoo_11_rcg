@@ -9,23 +9,25 @@ Reciga improvements
 Different improvements for Reciga odoo ERP
 ------------------------------------------
 
-
+* New paper format for product barcode labels
+* Print 14 location barcodes per page
+* Changes in the report footer
 
 Author
 ------
 
-Developer: Asigal, S.L., hola@libreinnova.com
+Developer: Libreinnova, info@libreinnova.com
 
 Contributors
 ~~~~~~~~~~~~
 
-* Asigal S.L.
-* Pavel Smirnov, pavel@asigal.com
+* Libreinnova
+* Pavel Smirnov, pavel@libreinnova.com
 
 Maintainer
 ~~~~~~~~~~
 
-This module is maintained by Asigal S.L. https://libreinnova.com
+This module is maintained by Libreinnova, https://libreinnova.com
 
 Disclaimer of Warranties
 ------------------------

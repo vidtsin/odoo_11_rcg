@@ -1,15 +1,17 @@
 ###############################################################################
-# Copyright(c): 2019 Asigal, S.L. (<https://libreinnova.com/>)
+#
+# Copyright(c): 2019 Libreinnova (<https://libreinnova.com/>)
 # License AGPL-3 - See http://www.gnu.org/licenses/agpl-3.0.html
 # All Rights Reserved
+#
 ###############################################################################
 {
     'name': 'Reciga improvements',
     'version': '1.0',
     'summary': 'Different improvements for Reciga odoo ERP',
     'description': '',
-    'category': 'Accounting',
-    'author': 'Asigal, S.L.',
+    'category': 'Inventory',
+    'author': 'Libreinnova',
     'website': 'https://libreinnova.com/',
     'images': [
         'static/description/icon.png'
