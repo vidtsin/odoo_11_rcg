@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+    <data>
+
+        <record id="pob_pob_product_template_update_view" model="ir.ui.view">
+            <field name="name">inherit.pob_product_template_update_view</field>
+            <field name="model">product.template</field>
+            <field name="inherit_id" ref="pob.pob_product_template_update_view"/>
+            <field name="arch" type="xml">
+                <field name="description_sale" position="attributes">
+                    <attribute name="widget">None</attribute>
+                </field>
+            </field>
+        </record>
+
+    </data>
+</odoo>

@@ -18,13 +18,15 @@
     ],
     'depends': [
         'product_barcode',
+        'pob',
         'stock'
     ],
     'data': [
         'data/paperformat.xml',
         'views/barcode.xml',
         'views/external_layout.xml',
-        'views/invoice.xml'
+        'views/invoice.xml',
+        'views/product.xml'
     ],
     'installable': True,
     'application': False,

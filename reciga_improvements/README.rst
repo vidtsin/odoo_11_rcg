@@ -16,6 +16,7 @@ Different improvements for Reciga odoo ERP
 * Changes in the report footer
 * Changes in the lot barcode report
 * Changes in the account invoice document template
+* FIX of POB product.template *description_sale* field widget
 
 Author
 ------

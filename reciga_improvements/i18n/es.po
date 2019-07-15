@@ -15,6 +15,6 @@ msgstr ""
 "Plural-Forms: \n"
 
 #. module: reciga_improvements
-#: model_terms:ir.ui.view,arch_db:reciga_improvements.account_report_invoice_document
+#: model:ir.ui.view,arch_db:reciga_improvements.account_report_invoice_document
 msgid "<strong>Reference:</strong>"
 msgstr "<strong>Referencia:</strong>"
