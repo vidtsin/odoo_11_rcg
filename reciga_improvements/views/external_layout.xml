@@ -2,6 +2,11 @@
 <odoo>
 
 	<template id="web_external_layout_standard" name="External layout" inherit_id="web.external_layout_standard"> 
+		<xpath expr="//div[hasclass('footer')]//li[@t-if='company.email']" position="replace">
+			<li t-if="company.email">
+				<span t-field="company.email"/>
+			</li>
+		</xpath>
 		<xpath expr="//div[hasclass('footer')]//li[@t-if='company.vat']" position="replace"/>
 	</template>
 

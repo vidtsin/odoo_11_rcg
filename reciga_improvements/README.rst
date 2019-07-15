@@ -15,6 +15,7 @@ Different improvements for Reciga odoo ERP
 * Print 14 location barcodes per page
 * Changes in the report footer
 * Changes in the lot barcode report
+* Changes in the account invoice document template
 
 Author
 ------

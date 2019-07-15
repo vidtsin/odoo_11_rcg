@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<odoo>
+
+    <template id="account_report_invoice_document" name="Report invoice document" inherit_id="account.report_invoice_document">
+        <xpath expr="//div[@t-if='o.name']" position="replace"/>
+        <xpath expr="//div[@t-if='o.origin']/strong" position="replace">
+            <strong>Reference:</strong>
+        </xpath>
+        <xpath expr="//div[@t-if='o.reference']" position="replace"/>
+    </template>
+
+</odoo>

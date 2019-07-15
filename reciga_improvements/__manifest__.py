@@ -23,7 +23,8 @@
     'data': [
         'data/paperformat.xml',
         'views/barcode.xml',
-        'views/external_layout.xml'
+        'views/external_layout.xml',
+        'views/invoice.xml'
     ],
     'installable': True,
     'application': False,
