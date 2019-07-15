@@ -1,10 +1,12 @@
-.. image:: https://img.shields.io/badge/licence-AGPL--3-blue.svg
-   :alt: License: AGPL-3
-   :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+.. |badge1| image:: https://img.shields.io/badge/licence-AGPL--3-blue.png
+    :target: http://www.gnu.org/licenses/agpl-3.0-standalone.html
+    :alt: License: AGPL-3
 
 ===================
 Reciga improvements
 ===================
+
+|badge1|
 
 Different improvements for Reciga odoo ERP
 ------------------------------------------
@@ -12,6 +14,7 @@ Different improvements for Reciga odoo ERP
 * New paper format for product barcode labels
 * Print 14 location barcodes per page
 * Changes in the report footer
+* Changes in the lot barcode report
 
 Author
 ------
